@@ -12,20 +12,5 @@
               {"id":1, "nombre": "vianda", "quantity": 30}]
           },
           {"id": 3, "categoria": "merienda", "detalle": []}
-      ],
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      ]
 }
